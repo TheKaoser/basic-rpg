@@ -1,0 +1,763 @@
+fileFormatVersion: 2
+guid: b6dbdd21d18f50846810ce41c19d1e26
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Layer 30
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 234
+      width: 86
+      height: 83
+    spriteID: ae15c2f39646c0347b73617286b3f110
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -41, y: -54}
+  - name: Layer 31
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 325
+      width: 83
+      height: 82
+    spriteID: ed938efbdc5fdeb489508936d2b88f39
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -217, y: 37}
+  - name: Sword small
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 402
+      width: 68
+      height: 75
+    spriteID: b0c853cadd99d1c4c92f9d75d0d9155f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 89, y: 198}
+  - name: Helmet
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 581
+      width: 75
+      height: 73
+    spriteID: 7bc92eaa86515944c8a2daac52dbfec4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2, y: 375}
+  - name: Chest
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 175
+      y: 654
+      width: 75
+      height: 58
+    spriteID: cd93e01deb43b4341af7e2132ec0110f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 169, y: 446}
+  - name: Gloves
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 175
+      y: 234
+      width: 75
+      height: 63
+    spriteID: 31fdca4b62acb5b4dac85f7fa9087dd4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 169, y: 24}
+  - name: Shield
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 415
+      width: 75
+      height: 75
+    spriteID: 235a02ffdd8c1824a9132a96bf72d129
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -2, y: 213}
+  - name: Greaves
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 175
+      y: 376
+      width: 75
+      height: 62
+    spriteID: 5ef2dc35e2ad0c441a326371c2bd9744
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 169, y: 165}
+  - name: Boots
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 175
+      y: 516
+      width: 75
+      height: 61
+    spriteID: 3677873831f77d143afdfb059836d70e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 169, y: 305}
+  - name: Yellow rune
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 743
+      width: 69
+      height: 76
+    spriteID: 2d7ced43257863f439c96242a3a18a82
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -139, y: 406}
+  - name: Red rune
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 827
+      width: 69
+      height: 76
+    spriteID: 3b83ad593e9c98e4caf0f12d04c8cfd5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -137, y: 493}
+  - name: Purple rune
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 911
+      width: 69
+      height: 76
+    spriteID: 06859aec64079514680b38f4646fcbf5
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -137, y: 574}
+  - name: Blue rune
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 234
+      width: 69
+      height: 76
+    spriteID: 53fd34986f88dab43a029be50d285999
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -44, y: -103}
+  - name: Green rune
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 318
+      width: 69
+      height: 76
+    spriteID: 431590afba8c77d4eb785175bf3b7b10
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -43, y: -19}
+  - name: Sword small_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 485
+      width: 68
+      height: 75
+    spriteID: 1722a0e6edf810248b55d19c1cd6a782
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -176, y: 279}
+  - name: Helmet_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 662
+      width: 75
+      height: 73
+    spriteID: ca25ffb0358a6814fa393382b98952b4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -267, y: 454}
+  - name: Chest_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 175
+      y: 720
+      width: 75
+      height: 58
+    spriteID: 1fad9dcff9a855442b776ef97f8f5f07
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -96, y: 510}
+  - name: Gloves_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 175
+      y: 305
+      width: 75
+      height: 63
+    spriteID: 6d63ec67799a6eb41aa3ddc75775bcec
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -96, y: 93}
+  - name: Shield_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 498
+      width: 75
+      height: 75
+    spriteID: 58a4bd6e7376ca94f88471eae1c73188
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -267, y: 294}
+  - name: Greaves_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 175
+      y: 446
+      width: 75
+      height: 62
+    spriteID: f21a657a7ca9a6942a501cfe6c9e61b9
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -96, y: 233}
+  - name: Boots_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 175
+      y: 585
+      width: 75
+      height: 61
+    spriteID: a0f520efd181c4f4db7a71f294a7634c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -96, y: 372}
+  - name: Add rune
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 353
+      height: 222
+    spriteID: 8e4fffdba2cbf8b4886c60b687473307
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: -194}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 512
+  importedTextureHeight: 1024
+  documentSize: {x: 353, y: 618}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 512
+  textureActualHeight: 1024
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Add rune
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 170
+    mosaicPosition: {x: 0, y: 0}
+  - name: Layer 30
+    spriteName: Layer 30
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ae15c2f39646c0347b73617286b3f110
+    layerID: 180
+    mosaicPosition: {x: 4, y: 234}
+  - name: Layer 31
+    spriteName: Layer 31
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ed938efbdc5fdeb489508936d2b88f39
+    layerID: 181
+    mosaicPosition: {x: 4, y: 325}
+  - name: Sword small
+    spriteName: Sword small
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b0c853cadd99d1c4c92f9d75d0d9155f
+    layerID: 151
+    mosaicPosition: {x: 98, y: 402}
+  - name: Helmet
+    spriteName: Helmet
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7bc92eaa86515944c8a2daac52dbfec4
+    layerID: 153
+    mosaicPosition: {x: 4, y: 581}
+  - name: Chest
+    spriteName: Chest
+    isGroup: 0
+    parentIndex: 0
+    spriteID: cd93e01deb43b4341af7e2132ec0110f
+    layerID: 154
+    mosaicPosition: {x: 175, y: 654}
+  - name: Gloves
+    spriteName: Gloves
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 31fdca4b62acb5b4dac85f7fa9087dd4
+    layerID: 156
+    mosaicPosition: {x: 175, y: 234}
+  - name: Shield
+    spriteName: Shield
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 235a02ffdd8c1824a9132a96bf72d129
+    layerID: 152
+    mosaicPosition: {x: 4, y: 415}
+  - name: Greaves
+    spriteName: Greaves
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 5ef2dc35e2ad0c441a326371c2bd9744
+    layerID: 155
+    mosaicPosition: {x: 175, y: 376}
+  - name: Boots
+    spriteName: Boots
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3677873831f77d143afdfb059836d70e
+    layerID: 157
+    mosaicPosition: {x: 175, y: 516}
+  - name: Yellow rune
+    spriteName: Yellow rune
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 2d7ced43257863f439c96242a3a18a82
+    layerID: 167
+    mosaicPosition: {x: 4, y: 743}
+  - name: Red rune
+    spriteName: Red rune
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3b83ad593e9c98e4caf0f12d04c8cfd5
+    layerID: 168
+    mosaicPosition: {x: 4, y: 827}
+  - name: Purple rune
+    spriteName: Purple rune
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 06859aec64079514680b38f4646fcbf5
+    layerID: 166
+    mosaicPosition: {x: 4, y: 911}
+  - name: Blue rune
+    spriteName: Blue rune
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 53fd34986f88dab43a029be50d285999
+    layerID: 169
+    mosaicPosition: {x: 98, y: 234}
+  - name: Green rune
+    spriteName: Green rune
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 431590afba8c77d4eb785175bf3b7b10
+    layerID: 165
+    mosaicPosition: {x: 98, y: 318}
+  - name: Sword small
+    spriteName: Sword small_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1722a0e6edf810248b55d19c1cd6a782
+    layerID: 158
+    mosaicPosition: {x: 98, y: 485}
+  - name: Helmet
+    spriteName: Helmet_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ca25ffb0358a6814fa393382b98952b4
+    layerID: 160
+    mosaicPosition: {x: 4, y: 662}
+  - name: Chest
+    spriteName: Chest_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1fad9dcff9a855442b776ef97f8f5f07
+    layerID: 161
+    mosaicPosition: {x: 175, y: 720}
+  - name: Gloves
+    spriteName: Gloves_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6d63ec67799a6eb41aa3ddc75775bcec
+    layerID: 163
+    mosaicPosition: {x: 175, y: 305}
+  - name: Shield
+    spriteName: Shield_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 58a4bd6e7376ca94f88471eae1c73188
+    layerID: 159
+    mosaicPosition: {x: 4, y: 498}
+  - name: Greaves
+    spriteName: Greaves_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f21a657a7ca9a6942a501cfe6c9e61b9
+    layerID: 162
+    mosaicPosition: {x: 175, y: 446}
+  - name: Boots
+    spriteName: Boots_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a0f520efd181c4f4db7a71f294a7634c
+    layerID: 164
+    mosaicPosition: {x: 175, y: 585}
+  - name: Add rune
+    spriteName: Add rune
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8e4fffdba2cbf8b4886c60b687473307
+    layerID: 150
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Add rune Texture
+  prefabAssetName: Add rune Prefab
+  spriteLibAssetName: Add rune Sprite Lib
+  secondarySpriteTextures: []

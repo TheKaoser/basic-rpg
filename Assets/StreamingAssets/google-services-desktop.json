@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "822694653314",
+    "firebase_url": "https://basicrpg-89d89.firebaseio.com",
+    "project_id": "basicrpg-89d89",
+    "storage_bucket": "basicrpg-89d89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822694653314:android:bff988c87250991073f39b",
+        "android_client_info": {
+          "package_name": "com.dreamingbig.basicrpg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822694653314-k280r46kurecqnnoamo7p27r3bjgdnca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dreamingbig.basicrpg",
+            "certificate_hash": "6625d450ed81b8336364a1375a7f706859e3c1eb"
+          }
+        },
+        {
+          "client_id": "822694653314-fokcv6pin471o1d5fpp6gm79k86sjq4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFX9G6i7L0EQgxfcmOkI88DChmSwfKaFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822694653314-8lsugvjcumbe97t16g160qhtdn86ga76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

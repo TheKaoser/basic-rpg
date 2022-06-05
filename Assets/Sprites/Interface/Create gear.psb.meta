@@ -1,0 +1,705 @@
+fileFormatVersion: 2
+guid: 6c126bd1b2f67b74bb5b75344057f578
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Layer 16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 366
+      width: 86
+      height: 83
+    spriteID: 901882a19469b8445995ecfef88930ed
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -41, y: 12}
+  - name: Layer 17
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 548
+      width: 83
+      height: 82
+    spriteID: 3ac27bc26b4f3514ea0d56e70946fc08
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -217, y: 194}
+  - name: Layer 19
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 457
+      width: 86
+      height: 83
+    spriteID: 82875fcc4831c6e4f8630fca8868cf6d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -41, y: 276}
+  - name: Layer 18
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 638
+      width: 83
+      height: 82
+    spriteID: b30cf78c20743d649b7b41e83bd126f6
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -217, y: 456}
+  - name: Demonic essence
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 435
+      width: 60
+      height: 75
+    spriteID: 961ee0fe72ded204ea5b4fcdbc3f77a1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 169, y: 164}
+  - name: Enchanted essence
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 447
+      width: 75
+      height: 71
+    spriteID: f8d97ce65e3267b40b802f2f25be9f25
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 93, y: 174}
+  - name: Dark essence
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 526
+      width: 63
+      height: 75
+    spriteID: 1bbcf47f16a746b4d956e0f97ef76d57
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 87, y: 254}
+  - name: Helmet
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 894
+      width: 75
+      height: 73
+    spriteID: 7a2e1ba11c9167442aef81b9ad3cf87d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -135, y: 488}
+  - name: Chest
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 960
+      width: 75
+      height: 58
+    spriteID: ec36e0a8243b0a045bb6f661de3c1e6d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -41, y: 817}
+  - name: Gloves
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 609
+      width: 75
+      height: 63
+    spriteID: 583054288adc7674b97789203994f7ec
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -41, y: 199}
+  - name: Shield
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 728
+      width: 75
+      height: 75
+    spriteID: b7271dd7f06323f449d01e9114e670ef
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -135, y: 591}
+  - name: Greaves
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 751
+      width: 75
+      height: 62
+    spriteID: bda8ee3b519f588459293c71148a5bb4
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -41, y: 340}
+  - name: Boots
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 891
+      width: 75
+      height: 61
+    spriteID: 4a634bf92b7b5f444a03e751df1c4501
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -41, y: 745}
+  - name: Helmet_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 366
+      width: 75
+      height: 73
+    spriteID: f8a1cb4eae6506f4689dc6fa7eed4f48
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -173, y: 93}
+  - name: Chest_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 518
+      width: 75
+      height: 58
+    spriteID: c7bb6fe2b75a4f24393f0673c4a4d07f
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -90, y: 243}
+  - name: Gloves_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 680
+      width: 75
+      height: 63
+    spriteID: a2d2d4a9018d9e34e9e104a428e974d3
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -173, y: 403}
+  - name: Shield_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 811
+      width: 75
+      height: 75
+    spriteID: 22994f75dce34174c89ae7a0fa82b528
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -267, y: 542}
+  - name: Greaves_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 98
+      y: 821
+      width: 75
+      height: 62
+    spriteID: 4240334604696f7478be2aa65da4a4d8
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -173, y: 543}
+  - name: Boots_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 181
+      y: 366
+      width: 75
+      height: 61
+    spriteID: f0ef0cd8d335a1248996182cd306b3bf
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -90, y: 88}
+  - name: Create gear
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 353
+      height: 354
+    spriteID: bd5812a6fef0b9f4a89dc3c020ba090b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: -128}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 512
+  importedTextureHeight: 1024
+  documentSize: {x: 353, y: 618}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 512
+  textureActualHeight: 1024
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Create gear
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 59
+    mosaicPosition: {x: 0, y: 0}
+  - name: Layer 16
+    spriteName: Layer 16
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 901882a19469b8445995ecfef88930ed
+    layerID: 70
+    mosaicPosition: {x: 4, y: 366}
+  - name: Layer 17
+    spriteName: Layer 17
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3ac27bc26b4f3514ea0d56e70946fc08
+    layerID: 71
+    mosaicPosition: {x: 4, y: 548}
+  - name: Layer 19
+    spriteName: Layer 19
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 82875fcc4831c6e4f8630fca8868cf6d
+    layerID: 73
+    mosaicPosition: {x: 4, y: 457}
+  - name: Layer 18
+    spriteName: Layer 18
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b30cf78c20743d649b7b41e83bd126f6
+    layerID: 72
+    mosaicPosition: {x: 4, y: 638}
+  - name: Demonic essence
+    spriteName: Demonic essence
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 961ee0fe72ded204ea5b4fcdbc3f77a1
+    layerID: 61
+    mosaicPosition: {x: 181, y: 435}
+  - name: Enchanted essence
+    spriteName: Enchanted essence
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f8d97ce65e3267b40b802f2f25be9f25
+    layerID: 62
+    mosaicPosition: {x: 98, y: 447}
+  - name: Dark essence
+    spriteName: Dark essence
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 1bbcf47f16a746b4d956e0f97ef76d57
+    layerID: 63
+    mosaicPosition: {x: 98, y: 526}
+  - name: Helmet
+    spriteName: Helmet
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 7a2e1ba11c9167442aef81b9ad3cf87d
+    layerID: 64
+    mosaicPosition: {x: 4, y: 894}
+  - name: Chest
+    spriteName: Chest
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ec36e0a8243b0a045bb6f661de3c1e6d
+    layerID: 68
+    mosaicPosition: {x: 98, y: 960}
+  - name: Gloves
+    spriteName: Gloves
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 583054288adc7674b97789203994f7ec
+    layerID: 66
+    mosaicPosition: {x: 98, y: 609}
+  - name: Shield
+    spriteName: Shield
+    isGroup: 0
+    parentIndex: 0
+    spriteID: b7271dd7f06323f449d01e9114e670ef
+    layerID: 67
+    mosaicPosition: {x: 4, y: 728}
+  - name: Greaves
+    spriteName: Greaves
+    isGroup: 0
+    parentIndex: 0
+    spriteID: bda8ee3b519f588459293c71148a5bb4
+    layerID: 65
+    mosaicPosition: {x: 98, y: 751}
+  - name: Boots
+    spriteName: Boots
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4a634bf92b7b5f444a03e751df1c4501
+    layerID: 69
+    mosaicPosition: {x: 98, y: 891}
+  - name: Helmet
+    spriteName: Helmet_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f8a1cb4eae6506f4689dc6fa7eed4f48
+    layerID: 75
+    mosaicPosition: {x: 98, y: 366}
+  - name: Chest
+    spriteName: Chest_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c7bb6fe2b75a4f24393f0673c4a4d07f
+    layerID: 76
+    mosaicPosition: {x: 181, y: 518}
+  - name: Gloves
+    spriteName: Gloves_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a2d2d4a9018d9e34e9e104a428e974d3
+    layerID: 78
+    mosaicPosition: {x: 98, y: 680}
+  - name: Shield
+    spriteName: Shield_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 22994f75dce34174c89ae7a0fa82b528
+    layerID: 74
+    mosaicPosition: {x: 4, y: 811}
+  - name: Greaves
+    spriteName: Greaves_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4240334604696f7478be2aa65da4a4d8
+    layerID: 77
+    mosaicPosition: {x: 98, y: 821}
+  - name: Boots
+    spriteName: Boots_1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: f0ef0cd8d335a1248996182cd306b3bf
+    layerID: 79
+    mosaicPosition: {x: 181, y: 366}
+  - name: Create gear
+    spriteName: Create gear
+    isGroup: 0
+    parentIndex: 0
+    spriteID: bd5812a6fef0b9f4a89dc3c020ba090b
+    layerID: 5
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: Create gear Texture
+  prefabAssetName: Create gear Prefab
+  spriteLibAssetName: Create gear Sprite Lib
+  secondarySpriteTextures: []
